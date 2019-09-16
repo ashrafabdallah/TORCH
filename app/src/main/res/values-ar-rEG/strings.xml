@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TORCH</string>
+    <string name="Sing_In">تسجيل دخول</string>
+    <string name="createaccount">ليس لديك اميل ؟ انشأ حساب</string>
+    <string name="forgetpassword">نسيت كلمه المرور</string>
+    <string name="password">كلمه المرور</string>
+    <string name="uer_name">اسم المستخدم</string>
+    <string name="address">العنوان</string>
+    <string name="confirm_password">تأكديد كلمه المرور</string>
+    <string name="email">الاميل</string>
+    <string name="hava_account">لديه حساب ؟ تسجيل الدخول</string>
+    <string name="phone_number">رقم الجوال</string>
+    <string name="sinUp">انشاء حساب جديد</string>
+    <string name="type">النوع</string>
+    <string-array name="gender">
+        <item>ذكر</item>
+        <item>أنثى</item>
+    </string-array>
+    <string name="send_phone_number">ارسل رقم الجوال</string>
+    <string name="sendcode_text">سوف يتم ارسال كود التحقق   \n     فور ادخال رقم الجوال</string>
+    <string name="new_pass">كلمه مرور جديده</string>
+    <string name="please_entercode">من فضلك ادخل الكود المرسل</string>
+    <string name="resend">اعاده ارسال</string>
+    <string name="send_code">ارسال الكود</string>
+    <string name="specifies_newPass">كلمه مرور جديده</string>
+    <string name="send">ارسال</string>
+    <string name="Courses">الدورات</string>
+    <string name="Groups">المجموعات</string>
+    <string name="Main">الرئسيه</string>
+    <string name="Offers">عروض</string>
+    <string name="favorit">المفضله</string>
+    <string name="more">المزيد</string>
+    <string name="products">منتجاتنا</string>
+    <string name="things">أشيائى</string>
+    <string name="AddToBag">اضافه الى الحقيبه</string>
+    <string name="clothes">الازياء</string>
+    <string name="Bethefirsttoreviewthisproduct">كن أول من يراجع هذا المنتج</string>
+    <string name="ProductDescription">وصف المنتج</string>
+    <string name="Youmaylike">قد يعجبك</string>
+    <string name="addToBagMarket">اضافه اللى حقيبه التسويق</string>
+    <string name="buyNow">اشتر الان</string>
+    <string name="sortBy">تصنيف حسب</string>
+    <string name="Services">الخدمات</string>
+    <string name="Choose">اختار</string>
+    <string name="tutorial">الدورات</string>
+    <string name="works">اعمالى</string>
+    <string name="Buy">القيام بالشراء</string>
+    <string name="total">"مجموع المبلغ "</string>
+
+
+    <string name="most_ordered">الاكثر مبيعا</string>
+    <string name="most_recent">الاحدث</string>
+    <string name="oldest">الاقدم</string>
+    <string name="most_rated">الاكثر تقيما</string>
+
+</resources>

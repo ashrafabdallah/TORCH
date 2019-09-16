@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008215119015",
+    "firebase_url": "https://torch-325cb.firebaseio.com",
+    "project_id": "torch-325cb",
+    "storage_bucket": "torch-325cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008215119015:android:1489d00e5fb25cf6",
+        "android_client_info": {
+          "package_name": "com.example.torch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008215119015-lg2o94cjt2f7ui2pdf6igrvgbtr15s8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.torch",
+            "certificate_hash": "abbc6f3cf952629290222f3b99f9da5814d2a098"
+          }
+        },
+        {
+          "client_id": "1008215119015-517pj8cq6kicv0bk75luvqbj6a9evlsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH63R9cEvsHqkXiBrj-dp8thR0QwoWT64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008215119015-517pj8cq6kicv0bk75luvqbj6a9evlsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

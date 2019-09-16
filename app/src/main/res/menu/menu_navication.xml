@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/toech"
+        android:title="@string/Main" />
+    <item
+        android:id="@+id/things"
+        android:icon="@drawable/shoppingpurse"
+        android:title="@string/things" />
+    <item
+        android:id="@+id/groups"
+        android:icon="@drawable/formaaaa"
+        android:title="@string/Groups" />
+    <item
+        android:id="@+id/favo"
+        android:icon="@drawable/favor"
+        android:title="@string/favorit" />
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/menu"
+        android:title="@string/more" />
+</menu>

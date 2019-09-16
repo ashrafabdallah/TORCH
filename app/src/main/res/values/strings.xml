@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">TORCH</string>
+    <string name="uer_name">UserName</string>
+    <string name="password">Password</string>
+    <string name="forgetpassword">Forget Password ?</string>
+    <string name="Sing_In">Sing In</string>
+    <string name="createaccount">No account ? Create Now</string>
+    <string name="sinUp">Sing Up</string>
+    <string name="hava_account">Have an account? Sing In</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="type">Type</string>
+    <string name="address">Address</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sendcode_text">Well Send Code to verify</string>
+    <string name="send_phone_number">Send Phone Number</string>
+    <string name="please_entercode">Please Enter your code</string>
+    <string name="send_code">Send Code</string>
+    <string name="resend">Resend</string>
+    <string name="specifies_newPass">Specifies a new password</string>
+    <string name="new_pass">New Password</string>
+    <string name="send">Send</string>
+    <string name="Main">Main</string>
+    <string name="things">Things</string>
+    <string name="Groups">Groups</string>
+    <string name="favorit">Favorit</string>
+    <string name="more">More</string>
+    <string-array name="gender">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="Offers">Offers</string>
+    <string name="products">products</string>
+    <string name="Courses">Courses</string>
+
+
+    <string name="AddToBag">Add To Bag</string>
+    <string name="clothes">Clothes</string>
+    <string name="sortBy">Sort by</string>
+    <string name="Bethefirsttoreviewthisproduct">Be the first to review this product</string>
+    <string name="addToBagMarket">add To Bag Market</string>
+    <string name="Youmaylike">You may like</string>
+    <string name="ProductDescription">Product Description</string>
+    <string name="buyNow">Buy Now</string>
+    <string name="Services">Services</string>
+    <string name="works">works</string>
+    <string name="tutorial">tutorial</string>
+    <string name="Choose">Choose</string>
+    <string name="total">Total amount</string>
+    <string name="Buy">Buy Now</string>
+
+    <string name="most_ordered">most ordered</string>
+    <string name="most_recent">most recent</string>
+    <string name="oldest">oldest</string>
+    <string name="most_rated">most rated</string>
+    <string name="My_reservations">My reservations</string>
+    <string name="Settings">Settings</string>
+    <string name="About_the_application">About the application</string>
+    <string name="log_out">log out</string>
+    <string name="Connect_with_us">Connect with us</string>
+    <string name="Update_Profile">Update Profile</string>
+    <string name="update">Update</string>
+    <string name="username">User Name</string>
+    <string name="myAccount">My  Account</string>
+    <string name="reservation">My Reservation</string>
+    <string name="turnoffnotification">Turn Off Notifications</string>
+    <string name="TermsandConditions">Terms and Conditions</string>
+    <string name="PrivacyPolicy">Privacy Policy</string>
+    <string name="settings">Settings</string>
+    <string name="aboutApp">About App</string>
+    <string name="write_your_massage">Write Your Massage</string>
+    <string name="Send">Send</string>
+    <string name="callus">Connect with us</string>
+    <string name="NotificationText">Hi ashraf</string>
+    <string name="GoodMorningNotification">Good</string>
+    <string name="Addressdetails">Address details</string>
+    <string name="change">Change</string>
+    <string name="freedelivery">free delivery</string>
+    <string name="DeliveryWay">Delivery Way</string>
+    <string name="Shipping">Shipping</string>
+    <string name="ContinueShopping">Continue Shopping</string>
+    <string name="nooffers">No Offers</string>
+    <string name="addAddress">Add Adderss</string>
+    <string name="recodAddress">Address Record</string>
+    <string name="delivery">Delivery</string>
+    <string name="SaveAddress">Save Address</string>
+    <string name="Chooseasprimaryaddress">Choose as primary address</string>
+    <string name="region">Region</string>
+    <string name="city">City</string>
+    <string name="flat">Flat</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="delete">Delete</string>
+</resources>

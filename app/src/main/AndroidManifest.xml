@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.torch">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".activity.addres_record.addAddress.UpdateAddressActivity"></activity>
+        <activity android:name=".activity.addres_record.addAddress.AddAddressActivity" />
+        <activity android:name=".activity.addres_record.AddressRecordActivity" />
+        <activity android:name=".activity.Delivery.DeliveryActivity" />
+
+        <receiver
+            android:name=".Servieces.NotificationReciever"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".activity.CallUsActivity" />
+        <activity android:name=".activity.AboutAppActivity" />
+        <activity android:name=".activity.settings.PolicyActivity" />
+        <activity android:name=".activity.settings.TermsActivity" />
+        <activity android:name=".activity.settings.SettingsActivity" />
+        <activity android:name=".activity.reservation.ReservationActivity" />
+        <activity
+            android:name=".activity.Profile.ProfileDetailesActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name=".activity.showWorkImage.WorkImageActivity" />
+        <activity android:name=".activity.ProviderServicesAndProducts" />
+        <activity android:name=".activity.ProviderActivity" />
+        <activity android:name=".activity.ProductDetailes.ProductDetails" />
+        <activity android:name=".activity.products.ProductsActivity" />
+        <activity
+            android:name=".activity.Clothes.MoreOffersActivity"
+            android:parentActivityName=".activity.HomeActvity" />
+        <activity
+            android:name=".activity.auth.Password.SetNewPasswordActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".activity.auth.SenVerifyCodeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".activity.auth.Password.ForgetPassActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".activity.HomeActvity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".activity.auth.RegisterActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".activity.auth.LoginActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".activity.SlashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/styleSplash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
